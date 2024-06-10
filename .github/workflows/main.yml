@@ -1,4 +1,4 @@
-name: CI/CD for react tets-CD-CI 
+name: CI/CD for react todo
 
 on:
   push:
